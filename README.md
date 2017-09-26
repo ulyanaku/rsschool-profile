@@ -1,5 +1,5 @@
 # rsschool-profile
 ***
-Ulyana Kuhto
+Ulyana Kukhta
 ***
 HTML CSS Basics: https://www.codecademy.com/users/Ulyasha/achievements
